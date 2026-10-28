@@ -1,0 +1,15 @@
+route_id,service_id,trip_id,trip_headsign,direction_id,shape_id
+R_1,DAILY_ALL,T_1_0800,Mahim Bus Station,0,SHP_1
+R_1,DAILY_ALL,T_1_0830,Mahim Bus Station,0,SHP_1
+R_1,DAILY_ALL,T_1_0900,Mahim Bus Station,0,SHP_1
+R_1,DAILY_ALL,T_1_0930,Mahim Bus Station,0,SHP_1
+R_332,DAILY_ALL,T_332_0815,Andheri Station (E),0,SHP_332
+R_332,DAILY_ALL,T_332_0845,Andheri Station (E),0,SHP_332
+R_332,DAILY_ALL,T_332_0915,Andheri Station (E),0,SHP_332
+R_415,DAILY_ALL,T_415_0820,Powai Hiranandani,0,SHP_415
+R_415,DAILY_ALL,T_415_0850,Powai Hiranandani,0,SHP_415
+R_415,DAILY_ALL,T_415_0920,Powai Hiranandani,0,SHP_415
+R_C40,DAILY_ALL,T_C40_0810,Bandra Station (E),0,SHP_C40
+R_C40,DAILY_ALL,T_C40_0830,Bandra Station (E),0,SHP_C40
+R_C40,DAILY_ALL,T_C40_0850,Bandra Station (E),0,SHP_C40
+R_C40,DAILY_ALL,T_C40_0910,Bandra Station (E),0,SHP_C40

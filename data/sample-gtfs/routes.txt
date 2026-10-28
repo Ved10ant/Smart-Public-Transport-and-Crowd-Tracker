@@ -1,0 +1,5 @@
+route_id,agency_id,route_short_name,route_long_name,route_type,route_color
+R_1,BEST,1,Colaba Bus Station to Mahim Bus Station,3,#DC2626
+R_332,BEST,332,Kurla Bus Station (W) to Andheri Station (E),3,#2563EB
+R_415,BEST,415,Andheri Station (W) to SEEPZ / Powai,3,#059669
+R_C40,BEST,C-40,BKC Diamond Bourse to Bandra Station (E),3,#7C3AED

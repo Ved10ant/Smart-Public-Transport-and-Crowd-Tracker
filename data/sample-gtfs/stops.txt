@@ -1,0 +1,18 @@
+stop_id,stop_name,stop_lat,stop_lon,wheelchair_boarding
+STOP_COLABA,Colaba Bus Station,18.9135,72.8210,1
+STOP_REGAL,Regal Cinema / SP Mukherjee Chowk,18.9248,72.8315,1
+STOP_CSMT,Chhatrapati Shivaji Maharaj Terminus (CSMT),18.9401,72.8354,1
+STOP_BYCULLA,Byculla Railway Station (E),18.9774,72.8336,0
+STOP_LALBAUG,Lalbaug / Bharatmata Cinema,18.9950,72.8385,0
+STOP_DADAR,Dadar TT Circle,19.0178,72.8478,1
+STOP_MAHIM,Mahim Bus Station,19.0410,72.8427,1
+STOP_BANDRA_E,Bandra Station (East),19.0596,72.8443,1
+STOP_BKC_TEL,BKC Telephone Exchange,19.0658,72.8642,1
+STOP_BKC_DIAMOND,Bharat Diamond Bourse (BKC),19.0664,72.8687,1
+STOP_KURLA_W,Kurla Bus Station (West),19.0689,72.8790,1
+STOP_SAKINAKA,Saki Naka Metro Junction,19.1025,72.8878,1
+STOP_ANDHERI_E,Andheri Station (East),19.1197,72.8464,1
+STOP_ANDHERI_W,Andheri Station (West),19.1197,72.8420,1
+STOP_JVPD,JVPD Bus Station / Juhu,19.1121,72.8285,1
+STOP_SEEPZ,SEEPZ Village Bus Station,19.1232,72.8756,0
+STOP_POWAI,Hiranandani Powai Bus Depot,19.1190,72.9080,1
