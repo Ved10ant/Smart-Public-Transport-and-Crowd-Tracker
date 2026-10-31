@@ -2,6 +2,7 @@ import express, { Request, Response, NextFunction } from 'express';
 import cors from 'cors';
 import { config } from './config/env.js';
 import { catalogRouter } from './modules/catalog/routes.js';
+import { routingRouter } from './modules/routing/routes.js';
 import { testConnection } from './db/index.js';
 
 export const app = express();
@@ -39,6 +40,7 @@ app.get('/api/v1/health', async (_req: Request, res: Response) => {
 
 // Catalog routes
 app.use('/api/v1', catalogRouter);
+app.use('/api/v1', routingRouter);
 
 // 404 handler
 app.use((_req: Request, res: Response) => {

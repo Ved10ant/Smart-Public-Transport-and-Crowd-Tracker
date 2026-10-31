@@ -1,0 +1,40 @@
+What is a Min Heap?
+A MinHeap is a binary tree-based data structure in which the 
+smallest-priority element is always at the top, also called the root.
+Each parent node must be smaller than or equal to its children. 
+This property makes the MinHeap ideal for applications that require 
+quick access to the smallest element, such as priority queues, 
+search algorithms, and event schedulers.
+
+In simple terms, a MinHeap is a way of arranging data so that the smallest 
+item is always easy to find — usually at the very top.
+
+
+{Parent} = [(index - 1) / 2]
+{LeftChild} = 2 *  index + 1 
+{RightChild} = 2 * index + 2
+
+Consider Dijkstra's algorithm, which finds a shortest path
+and Min heap help to select the smaller no. like distance , time, etc
+instead of checking and every node.
+
+push()
+[3, 8, 5]
+
+step1 : Add 1
+    check the position of 1 
+    [3 , 8 , 5 , 1]
+    then , Compare the value with its parent 
+    The value 1 is at index 3. 
+    Its parent is at index [(index  - 1) / 2], 
+    which contains 8.
+Since 1 is smaller than 8, swap them.
+
+[3 , 1, 5 , 8]
+
+step2: 
+    1 is now at index 1. 
+    Its parent is 3 at index 0. Swap again because 1 is smaller.
+
+Final heap : [1, 3, 5, 8]
+
